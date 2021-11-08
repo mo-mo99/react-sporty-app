@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6e8f6e0-40d0-4e67-9683-57d7fc6be402" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myapp" />
+  </component>
+  <component name="ProjectId" id="1r9We0cmUayQP9sMJvTNx485Jao" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e8f6e0-40d0-4e67-9683-57d7fc6be402" name="Default Changelist" comment="" />
+      <created>1618388878434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618388878434</updated>
+      <workItem from="1618388887937" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="261" key="Github.ShareDialog" timestamp="1618389493057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1618389493057" />
+  </component>
+</project>
